@@ -1,0 +1,4 @@
+[core]
+    remote = mlops_dvc_storage
+['remote "mlops_dvc_storage"']
+    url = gdrive://1ciJ-V-mUmwv9ujwDCHITrArV5_XmsZzA?hl=ko
