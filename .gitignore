@@ -3,7 +3,6 @@ venv/
 .venv/
 env/"token/" 
 *.csv
-data/*.csv
 artifacts/
 mlruns/
 mlruns.db
